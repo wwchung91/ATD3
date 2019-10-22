@@ -3,11 +3,10 @@ Teach Biped Robots to Walk via Gait Principles and Reinforcement Learning with A
 
 The paper is under review, and the code will be released when the paper is accepted. 
 
+<kbd>
+  <img src="Atlas_video.gif">
+</kbd>
 
-img[src~="Atlas_video.gif"] {
-   border: 1px solid black;
-}
-
-img[src~="Roboschool_video.gif"] {
-   border: 1px solid black;
-}
+<kbd>
+  <img src="Roboschool_video.gif">
+</kbd>
