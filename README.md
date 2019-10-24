@@ -3,6 +3,8 @@ Teach Biped Robots to Walk via Gait Principles and Reinforcement Learning with A
 
 The paper is under review, and the code will be released when the paper is accepted. 
 
+To view all of my works, please view my homepage: https://sites.google.com/view/kuangenzhang
+
 <kbd>
   <img src="Atlas_video.gif">
 </kbd>
@@ -10,3 +12,6 @@ The paper is under review, and the code will be released when the paper is accep
 <kbd>
   <img src="Roboschool_video.gif">
 </kbd>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OAZVK5B0ZxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
