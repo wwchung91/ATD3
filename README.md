@@ -13,7 +13,7 @@ To view all of my works, please view my homepage: https://sites.google.com/view/
   <img src="Roboschool_video.gif">
 </kbd>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=OAZVK5B0ZxQ"><img src="https://www.youtube.com/watch?v=OAZVK5B0ZxQ/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
+<iframe width="1920" height="1080"
+src="https://www.youtube.com/watch?v=OAZVK5B0ZxQ"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
